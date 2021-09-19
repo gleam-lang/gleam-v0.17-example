@@ -1,27 +1,7 @@
-# workers-gleam-template ✨
+# Gleam v0.17 serverless example
 
-A batteries included template for kick starting a Gleam Cloudflare worker project.
+An example of Gleam v0.17 running on the CloudFlare Workers serverless platform,
+using various Gleam libraries and the openweathermap API.
 
-Note: You must use [wrangler][install-wrangler] 1.19 or newer to use this template.
-
-[install-wrangler]: https://developers.cloudflare.com/workers/cli-wrangler/install-update
-
-## 🔋 Getting Started
-
-This template is meant to be used with
-[Wrangler](https://github.com/cloudflare/wrangler). If you are not already
-familiar with the tool, we recommend that you install the tool and configure it
-to work with your [Cloudflare account](https://dash.cloudflare.com).
-Documentation can be found [here][wrangler-docs].
-
-[wrangler-docs]: https://developers.cloudflare.com/workers/tooling/wrangler/
-
-To generate using Wrangler, run this command:
-
-```sh
-wrangler generate my-gleam-project https://github.com/lpil/gleam-cloudflare-worker
-```
-
-### 👀 Previewing and Publishing
-
-For information on how to preview and publish your worker, please see the [Wrangler docs](https://developers.cloudflare.com/workers/tooling/wrangler/commands/#publish).
+If you'd like to try out Gleam on CloudFlare Workers check out this template:
+https://github.com/lpil/gleam-cloudflare-worker.
