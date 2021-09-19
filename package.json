@@ -1,5 +1,5 @@
 {
-  "name": "worker-gleam-template",
+  "name": "gleam-v0.17-example",
   "version": "1.0.0",
   "description": "Cloudflare worker Gleam template",
   "type": "module",

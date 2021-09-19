@@ -1,4 +1,4 @@
-name = "gleam-cloudflare-worker"
+name = "gleam-v0-17-example"
 type = "javascript"
 zone_id = ""
 account_id = ""
